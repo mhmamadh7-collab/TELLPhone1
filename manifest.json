@@ -1,7 +1,7 @@
 {
   "name": "دفترچه تلفن داخلی",
   "short_name": "دفترچه تلفن",
-  "start_url": "/",
+  "start_url": "/TELLphone1/",
   "display": "standalone",
   "background_color": "#007bff",
   "theme_color": "#007bff",
@@ -17,4 +17,5 @@
       "type": "image/png"
     }
   ]
+
 }
