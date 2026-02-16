@@ -5,7 +5,7 @@ const urlsToCache = [
    '/manifest.json',
    '/icon-192.png',
    '/icon-512.png',
-   '/TELLPhone/sw.js' // این خط را اضافه کنید
+   '/TELLPhone1/sw.js' // این خط را اضافه کنید
  ];
 
 self.addEventListener('install', event => {
@@ -26,3 +26,4 @@ self.addEventListener('fetch', event => {
   );
 
 });
+
